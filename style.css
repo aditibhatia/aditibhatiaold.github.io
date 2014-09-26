@@ -6,5 +6,9 @@
 }
 body {
 	background: url(intro-bg.jpg) no-repeat center center;
-
+}
+.sign-up {
+	color: #fff;
+	text-align: center;
+	padding: 10%;
 }
